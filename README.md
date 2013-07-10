@@ -1,6 +1,9 @@
 ActionBarSample
 ===============
  フォルダ構造
+
+
+ ```
 ├── ActionBar.iml
 ├── AndroidManifest.xml
 ├── README.md
@@ -57,6 +60,8 @@ ActionBarSample
 							   ├── MyActivijava
 							   └── SecondScreen.java
 
+```							   		  
+							   
 ##注目ファイル
 - AndroidManifest.xml
 - SecondScreen.java
